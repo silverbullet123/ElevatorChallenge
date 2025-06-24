@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElevatorChallenge.Domain", "ElevatorChallenge.Domain", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElevatorChallenge.Application", "ElevatorChallenge.Application", "{23148AAC-A519-4FB5-AA90-06C97AFC0274}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElevatorChallenge.Infrastructure", "ElevatorChallenge.Infrastructure", "{66E08446-148D-4F0B-B055-190FA6AA542D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElevatorChallenge.Presentation", "ElevatorChallenge.Presentation", "{61EAE23D-2265-460B-8943-98DF5F32F362}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElevatorChallenge.Tests", "ElevatorChallenge.Tests", "{BEC5822A-0D73-42A2-B1A0-2F3F6B3D4798}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorChallenge.Application", "ElevatorChallenge.Domain\ElevatorChallenge.Application.csproj", "{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorChallenge.Domain", "ElevatorChallenge.Application\ElevatorChallenge.Domain.csproj", "{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorChallenge.Infrastructure", "ElevatorChallenge.Infrastructure\ElevatorChallenge.Infrastructure.csproj", "{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorChallenge.Tests", "ElevatorChallenge.Tests\ElevatorChallenge.Tests.csproj", "{2E05F3CD-3BD2-45A9-B983-49327A3D8759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorChallenge.PresentationConsole", "ElevatorChallenge.PresentationConsole\ElevatorChallenge.PresentationConsole.csproj", "{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E05F3CD-3BD2-45A9-B983-49327A3D8759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E05F3CD-3BD2-45A9-B983-49327A3D8759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E05F3CD-3BD2-45A9-B983-49327A3D8759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E05F3CD-3BD2-45A9-B983-49327A3D8759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38283D53-B7CC-4D3C-9272-215DCD6DE7DB} = {23148AAC-A519-4FB5-AA90-06C97AFC0274}
+		{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5} = {66E08446-148D-4F0B-B055-190FA6AA542D}
+		{2E05F3CD-3BD2-45A9-B983-49327A3D8759} = {BEC5822A-0D73-42A2-B1A0-2F3F6B3D4798}
+		{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB} = {61EAE23D-2265-460B-8943-98DF5F32F362}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67DC999-A6DF-414B-BA3E-F78CF85161B4}
+	EndGlobalSection
+EndGlobal

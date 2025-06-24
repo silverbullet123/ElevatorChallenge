@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ElevatorChallenge.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ElevatorChallenge.Domain": "1.0.0",
+          "ElevatorChallenge.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ElevatorChallenge.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElevatorChallenge.Application.dll": {}
+        }
+      },
+      "ElevatorChallenge.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ElevatorChallenge.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElevatorChallenge.Domain.dll": {}
+        }
+      },
+      "ElevatorChallenge.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ElevatorChallenge.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ElevatorChallenge.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElevatorChallenge.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElevatorChallenge.Application/1.0.0": {
+      "type": "project",
+      "path": "../ElevatorChallenge.Domain/ElevatorChallenge.Application.csproj",
+      "msbuildProject": "../ElevatorChallenge.Domain/ElevatorChallenge.Application.csproj"
+    },
+    "ElevatorChallenge.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ElevatorChallenge.Application/ElevatorChallenge.Domain.csproj",
+      "msbuildProject": "../ElevatorChallenge.Application/ElevatorChallenge.Domain.csproj"
+    },
+    "ElevatorChallenge.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../ElevatorChallenge.Infrastructure/ElevatorChallenge.Infrastructure.csproj",
+      "msbuildProject": "../ElevatorChallenge.Infrastructure/ElevatorChallenge.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ElevatorChallenge.Application >= 1.0.0",
+      "ElevatorChallenge.Domain >= 1.0.0",
+      "ElevatorChallenge.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj",
+      "projectName": "ElevatorChallenge.PresentationConsole",
+      "projectPath": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj": {
+              "projectPath": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj"
+            },
+            "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Domain\\ElevatorChallenge.Application.csproj": {
+              "projectPath": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Domain\\ElevatorChallenge.Application.csproj"
+            },
+            "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Infrastructure\\ElevatorChallenge.Infrastructure.csproj": {
+              "projectPath": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Infrastructure\\ElevatorChallenge.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

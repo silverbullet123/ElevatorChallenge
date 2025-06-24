@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05F3CD-3BD2-45A9-B983-49327A3D8759}|ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.tests\\elevatorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E05F3CD-3BD2-45A9-B983-49327A3D8759}|ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|solutionrelative:elevatorchallenge.tests\\elevatorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05F3CD-3BD2-45A9-B983-49327A3D8759}|ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.tests\\elevatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E05F3CD-3BD2-45A9-B983-49327A3D8759}|ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|solutionrelative:elevatorchallenge.tests\\elevatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}|ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.presentationconsole\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}|ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj|solutionrelative:elevatorchallenge.presentationconsole\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}|ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.presentationconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}|ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj|solutionrelative:elevatorchallenge.presentationconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5}|ElevatorChallenge.Infrastructure\\ElevatorChallenge.Infrastructure.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.infrastructure\\data\\buildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5650EB-F6CC-4C7C-8B23-50FA2F917CC5}|ElevatorChallenge.Infrastructure\\ElevatorChallenge.Infrastructure.csproj|solutionrelative:elevatorchallenge.infrastructure\\data\\buildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}|ElevatorChallenge.Domain\\ElevatorChallenge.Application.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.domain\\services\\elevatordispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}|ElevatorChallenge.Domain\\ElevatorChallenge.Application.csproj|solutionrelative:elevatorchallenge.domain\\services\\elevatordispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}|ElevatorChallenge.Domain\\ElevatorChallenge.Application.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.domain\\services\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38283D53-B7CC-4D3C-9272-215DCD6DE7DB}|ElevatorChallenge.Domain\\ElevatorChallenge.Application.csproj|solutionrelative:elevatorchallenge.domain\\services\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\interfaces\\ielevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\interfaces\\ielevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\interfaces\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\interfaces\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\exceptions\\invalidfloorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\exceptions\\invalidfloorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\exceptions\\capacityexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\exceptions\\capacityexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\enums\\elevatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\enums\\elevatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\enums\\elevatorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\enums\\elevatorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\entities\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\entities\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\entities\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\entities\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.application\\entities\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59DF27-2A03-4C8B-9CC9-258309DAA1B7}|ElevatorChallenge.Application\\ElevatorChallenge.Domain.csproj|solutionrelative:elevatorchallenge.application\\entities\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}|ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj|d:\\repos\\dvtelevatorchallenge\\elevatorchallenge\\elevatorchallenge.presentationconsole\\elevatorchallenge.presentationconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04BDF5C0-95AC-4B9A-84A2-834AC77DB1DB}|ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj|solutionrelative:elevatorchallenge.presentationconsole\\elevatorchallenge.presentationconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\Readme.txt",
+              "RelativeDocumentMoniker": "Readme.txt",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\Readme.txt",
+              "RelativeToolTip": "Readme.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-23T18:24:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElevatorControllerTests.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Tests\\ElevatorControllerTests.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Tests\\ElevatorControllerTests.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Tests\\ElevatorControllerTests.cs",
+              "RelativeToolTip": "ElevatorChallenge.Tests\\ElevatorControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:23:01.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElevatorTests.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Tests\\ElevatorTests.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Tests\\ElevatorTests.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Tests\\ElevatorTests.cs",
+              "RelativeToolTip": "ElevatorChallenge.Tests\\ElevatorTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:22:33.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IElevator.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Interfaces\\IElevator.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Interfaces\\IElevator.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Interfaces\\IElevator.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Interfaces\\IElevator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:16:23.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IElevatorController.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Interfaces\\IElevatorController.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Interfaces\\IElevatorController.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Interfaces\\IElevatorController.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Interfaces\\IElevatorController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:04:46.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElevatorController.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Domain\\Services\\ElevatorController.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Domain\\Services\\ElevatorController.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Domain\\Services\\ElevatorController.cs",
+              "RelativeToolTip": "ElevatorChallenge.Domain\\Services\\ElevatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:12:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElevatorDispatcher.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Domain\\Services\\ElevatorDispatcher.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Domain\\Services\\ElevatorDispatcher.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Domain\\Services\\ElevatorDispatcher.cs",
+              "RelativeToolTip": "ElevatorChallenge.Domain\\Services\\ElevatorDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:12:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuildingRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Infrastructure\\Data\\BuildingRepository.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Infrastructure\\Data\\BuildingRepository.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Infrastructure\\Data\\BuildingRepository.cs",
+              "RelativeToolTip": "ElevatorChallenge.Infrastructure\\Data\\BuildingRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:14:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.PresentationConsole\\Program.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\Program.cs",
+              "RelativeToolTip": "ElevatorChallenge.PresentationConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:04:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.PresentationConsole\\ConsoleUI.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\ConsoleUI.cs",
+              "RelativeToolTip": "ElevatorChallenge.PresentationConsole\\ConsoleUI.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:05:30.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidFloorException.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Exceptions\\InvalidFloorException.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Exceptions\\InvalidFloorException.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Exceptions\\InvalidFloorException.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Exceptions\\InvalidFloorException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:20:27.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CapacityExceededException.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Exceptions\\CapacityExceededException.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Exceptions\\CapacityExceededException.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Exceptions\\CapacityExceededException.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Exceptions\\CapacityExceededException.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:45:48.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElevatorType.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Enums\\ElevatorType.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Enums\\ElevatorType.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Enums\\ElevatorType.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Enums\\ElevatorType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:03:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElevatorStatus.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Enums\\ElevatorStatus.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Enums\\ElevatorStatus.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Enums\\ElevatorStatus.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Enums\\ElevatorStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:03:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Entities\\Passenger.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Entities\\Passenger.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Entities\\Passenger.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Entities\\Passenger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:03:01.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Entities\\Floor.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Entities\\Floor.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Entities\\Floor.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Entities\\Floor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:02:32.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Entities\\Elevator.cs",
+              "RelativeDocumentMoniker": "ElevatorChallenge.Application\\Entities\\Elevator.cs",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.Application\\Entities\\Elevator.cs",
+              "RelativeToolTip": "ElevatorChallenge.Application\\Entities\\Elevator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAywDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:01:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ElevatorChallenge.PresentationConsole",
+              "DocumentMoniker": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj",
+              "RelativeDocumentMoniker": "ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj",
+              "ToolTip": "D:\\Repos\\DVTElevatorChallenge\\ElevatorChallenge\\ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj",
+              "RelativeToolTip": "ElevatorChallenge.PresentationConsole\\ElevatorChallenge.PresentationConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T14:05:01.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
