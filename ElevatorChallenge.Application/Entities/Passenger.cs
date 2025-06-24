@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ElevatorChallenge.Domain.Entities
 {
+    /// <summary>
+    /// Represents a passenger with a destination floor.
+    /// </summary>
     public class Passenger
     {
         public int Id { get; }

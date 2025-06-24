@@ -10,6 +10,9 @@ using ElevatorChallenge.Domain.Enums;
 
 namespace ElevatorChallenge.Domain.Enums
 {
+    /// <summary>
+    /// Defines the types of elevators supported.
+    /// </summary>
     public enum ElevatorType
     {
         Passenger,

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ElevatorChallenge.Domain.Enums
 {
+    /// <summary>
+    /// Defines the possible statuses of an elevator.
+    /// </summary>
     public enum ElevatorStatus
     {
         Stationary,

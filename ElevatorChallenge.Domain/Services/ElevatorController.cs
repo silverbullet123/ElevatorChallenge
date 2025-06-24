@@ -11,6 +11,9 @@ using ElevatorChallenge.Infrastructure.Data;
 
 namespace ElevatorChallenge.Application.Services
 {
+    /// <summary>
+    /// Manages elevator operations and passenger assignments.
+    /// </summary>
     public class ElevatorController : IElevatorController
     {
         private readonly BuildingRepository _buildingRepository;

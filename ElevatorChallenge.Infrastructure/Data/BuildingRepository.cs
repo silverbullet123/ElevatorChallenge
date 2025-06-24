@@ -9,6 +9,9 @@ using ElevatorChallenge.Domain.Interfaces;
 
 namespace ElevatorChallenge.Infrastructure.Data
 {
+    /// <summary>
+    /// Simulates data storage for building floors and elevators.
+    /// </summary>
     public class BuildingRepository
     {
         private readonly List<IElevator> _elevators;

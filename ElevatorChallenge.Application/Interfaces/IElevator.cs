@@ -8,6 +8,9 @@ using ElevatorChallenge.Domain.Enums;
 
 namespace ElevatorChallenge.Domain.Interfaces
 {
+    /// <summary>
+    /// Defines the contract for elevator operations.
+    /// </summary>
     public interface IElevator
     {
         int Id { get; }

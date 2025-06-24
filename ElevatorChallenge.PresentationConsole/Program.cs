@@ -5,6 +5,9 @@ using ElevatorChallenge.Presentation;
 
 namespace ElevatorChallenge
 {
+    /// <summary>
+    /// Main Program That Runs at StartUp.
+    /// </summary>
     class Program
     {
         static async Task Main(string[] args)

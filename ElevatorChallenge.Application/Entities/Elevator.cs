@@ -11,6 +11,9 @@ using ElevatorChallenge.Domain.Exceptions;
 
 namespace ElevatorChallenge.Domain.Entities
 {
+    /// <summary>
+    /// Represents an elevator in the building.
+    /// </summary>
     public class Elevator : IElevator
     {
         private readonly List<Passenger> _passengers = new List<Passenger>();

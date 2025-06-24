@@ -11,6 +11,9 @@ using ElevatorChallenge.Domain.Interfaces;
 
 namespace ElevatorChallenge.Presentation
 {
+    /// <summary>
+    /// Handles console-based user interaction and status display.
+    /// </summary>
     public class ConsoleUI
     {
         private readonly IElevatorController _elevatorController;
